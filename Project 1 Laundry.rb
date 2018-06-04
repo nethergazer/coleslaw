@@ -1,7 +1,7 @@
 def wear(smell)
   sample :drum_bass_hard, rate: smell
   
-  sleep 0.5
+  sleep 1
 end
 def wash(temp)
   play temp
